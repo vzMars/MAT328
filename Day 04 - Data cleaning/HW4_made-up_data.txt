@@ -1,0 +1,16 @@
+This is a data set about some fancy furniture sold at an auction.  There should only be one row with each lot number.			
+			
+lot number	type	price	bidder
+1	wing chair	"1,270"	#4
+2	table	"3,455"	#88
+3	armchair	"1,010"	#56
+4	mirror	734	#56
+5	rocking chair	890	#50
+5	rocking chair	890	#50
+6	table	"2,780"	#1
+7	bed frame	"4,500"	#4
+8	chair	400	#4
+9	table	"6,600"	#2
+10	armchair	"4,230"	#50
+11	mirror	340	#88
+12	armchair	"9,830"	#4

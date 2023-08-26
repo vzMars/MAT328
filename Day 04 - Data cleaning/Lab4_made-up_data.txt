@@ -1,0 +1,15 @@
+This is a made up dataset that needs a lot of cleaning.			
+			
+Name	Gender	Pay	Months at job
+Hazel	F	"$85,000 "	36
+Hugo	M	"$61,000 "	20
+Hilbert	male	"$87,000 "	56
+Hilbert	male	"$87,000 "	56
+Hilda	female	"$72,000 "	14
+Honoria	f	"$55,000 "	-
+Herbert	male	"$57,000 "	33
+Hannah	female	"$66,000 "	44
+Hannah	female	"$66,000 "	44
+Hayley	f	"$70,000 "	53
+			
+There are even extra rows at the end of the data set.			
